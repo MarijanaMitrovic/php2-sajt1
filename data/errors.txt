@@ -1,0 +1,23 @@
+SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1	18-06-2019 16:48:55
+SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1	18-06-2019 16:49:54
+SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1	18-06-2019 17:02:08
+SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1	18-06-2019 17:03:14
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_role' in 'field list'	16-02-2020 20:32:09
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_role' in 'field list'	16-02-2020 20:32:53
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_role' in 'field list'	16-02-2020 20:33:22
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_role' in 'field list'	16-02-2020 20:33:45
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_role' in 'field list'	16-02-2020 20:34:30
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_role' in 'field list'	16-02-2020 20:44:21
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_role' in 'field list'	16-02-2020 20:44:43
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_role' in 'field list'	16-02-2020 20:45:02
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_role' in 'field list'	16-02-2020 20:46:21
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_role' in 'field list'	16-02-2020 20:54:20
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_role' in 'field list'	16-02-2020 21:18:24
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_role' in 'field list'	16-02-2020 21:39:13
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_role' in 'field list'	16-02-2020 21:39:34
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_role' in 'field list'	16-02-2020 21:46:04
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_role' in 'field list'	16-02-2020 21:55:16
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_role' in 'field list'	16-02-2020 21:56:08
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_role' in 'field list'	16-02-2020 22:01:13
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_role' in 'field list'	16-02-2020 22:01:44
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_role' in 'field list'	16-02-2020 22:02:03
